@@ -1,5 +1,3 @@
-# 거품 정렬 (Bubble Sort)
-
 ## 정의
 
 서로 인접한 두 원소의 크기를 비교하고, 조건에 맞지 않는다면 자리를 교환하며 정렬하는 알고리즘.
@@ -9,8 +7,8 @@
 ## 과정
 
 ![Alt Text](https://github.com/GimunLee/tech-refrigerator/raw/master/Algorithm/resources/bubble-sort-001.gif)
-<br>
-<span style="font-size:60%">출처: https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/resources/bubble-sort-001.gif</span>
+
+<span style="font-size:10%">GIF 출처: https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/resources/bubble-sort-001.gif</span>
 
 <br>
 
@@ -44,7 +42,7 @@
 
 ## 코드 구현
 
-```JavaScript
+```javascript
 // 개선된 Bubble Sort
 const bubbleSort = (arr) => {
   let noSwap;

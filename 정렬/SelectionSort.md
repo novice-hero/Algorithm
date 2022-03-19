@@ -1,4 +1,4 @@
-# 삽입 정렬 (Insertion Sort)
+# 선택 정렬 (Selection Sort)
 
 ## 정의
 
@@ -10,7 +10,7 @@
 
 ![Alt Text](https://github.com/GimunLee/tech-refrigerator/raw/master/Algorithm/resources/selection-sort-001.gif)
 <br>
-<span style="font-size:60%">출처: https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/resources/selection-sort-001.gif</span>
+<span style="font-size:10%">GIF 출처: https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/resources/selection-sort-001.gif</span>
 
 <br>
 
@@ -44,7 +44,7 @@
 
 ## 코드 구현
 
-```JavaScript
+```javascript
 const selectionSort = (arr) => {
   for (let i = 0; i < arr.length; i++) {
     let min = i;
