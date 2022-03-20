@@ -8,10 +8,7 @@
 
 ## 과정
 
-![Alt Text](https://github.com/GimunLee/tech-refrigerator/raw/master/Algorithm/resources/insertion-sort-001.gif)
-<br>
-<span style="font-size:10%">GIF 출처: https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/resources/insertion-sort-001.gif</span>
-
+<img src="img/insertionsort.gif">
 <br>
 
 ## 시간 복잡도
@@ -25,7 +22,7 @@
 
 ## 공간 복잡도
 
-- 주어진 배열 안에서 교환으로 정렬이 되므로 **O(n)**
+- 주어진 배열 안에서 교환으로 정렬이 되므로 **O(1)**
 
 <br>
 
